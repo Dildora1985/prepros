@@ -7,7 +7,7 @@ body {
 }
 
 body {
-  background-color: yellow;
+  background-color: rgba(0, 255, 115, 0.583);
 }
 
 .undefined__ {
@@ -20,7 +20,7 @@ body {
 }
 
 .rang {
-  font-size: 100px;
+  font-size: 40px;
 }
 
 .olma {
